@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://h-ryan.github.io/talebi.github.io/sitemap.xml
+Sitemap: https://test.talebi.info/sitemap.xml
